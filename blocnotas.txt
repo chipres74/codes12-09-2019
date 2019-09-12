@@ -1,0 +1,5 @@
+1.- Inicio
+2.- Pedir valor final de secuencia
+3.- Realizar suma de todos los valores
+4.- Mostrar el valor de la suma
+5.- Fin
