@@ -22,6 +22,6 @@ int main()
 		serie = serie + 2;
 	}
 	cout << "La suma es: " << suma << endl;
-	
+	return 0;
 }
 
